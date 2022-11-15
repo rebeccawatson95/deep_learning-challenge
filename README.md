@@ -3,7 +3,7 @@
 # Rebecca Watson
 
 ## Overview: Explain the purpose of this analysis
-Given a dataset containing more than 34,000 organizations that ave received funding from Alphabet Soup over the years, I used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
+Given a dataset containing more than 34,000 organizations that have received funding from Alphabet Soup over the years, I used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 
 ## Results: Using bulleted lists and images to support your answers, address the following questions
